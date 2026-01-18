@@ -5,6 +5,7 @@ This is the wdd430 group project.
 Kim K Brown
 Carla Maetzin Ramirez Quintanar
 Uyiosa Richmond Izekor
+Farhan Abdi Mohamud
 
 Project Requirements and Scope Summary
 Purpose of the Project
